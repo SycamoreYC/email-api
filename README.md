@@ -1,6 +1,6 @@
 # email-api
 
-# How to start
+## How to start
 
 ```
 ./gradlew bootrun
